@@ -24,7 +24,7 @@ DataSource
 
 # 3.
 Alerts  
-![BOT](https://github.com/GrizzlikovOleg/Netology/blob/main/ttasks_monitoring/mo_2/BOT.png)
+![BOT](https://github.com/Myash-New/Monitoring02/blob/main/Telegram%20Bot.jpg)
 
 # 4.
 
