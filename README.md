@@ -20,7 +20,7 @@ DataSource
   (node_filesystem_avail_bytes{mountpoint="/"} / node_filesystem_size_bytes{mountpoint="/"}) * 100
 
 ### DashBoard
-![DashBoard]()
+![DashBoard](https://github.com/Myash-New/Monitoring02/blob/main/Dashboard.jpg)
 
 # 3.
 Alerts  
